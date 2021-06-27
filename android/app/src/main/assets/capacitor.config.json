@@ -1,0 +1,6 @@
+{
+	"appId": "com.bookplacer.bookmarket",
+	"appName": "ionicbookplacer",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

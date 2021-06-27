@@ -1,0 +1,7 @@
+{
+  "name": "ionicbookplacer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
